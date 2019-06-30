@@ -5,7 +5,7 @@
 
 **prerequisite**
 
- 1. Use wrapper classes of primitives types
+ 1. Use wrapper classes instead of primitives types
  2. Use a default constructor with super()
  3. Use getters and setters
  4. Extend the Cloneable class
